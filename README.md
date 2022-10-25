@@ -28,9 +28,9 @@ its a simple html and css project
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/ismayito
+- Twitter: @IsmailMayito
+- LinkedIn: https://www.linkedin.com/in/mayito-ismail-2b0067178/
 
 
 
