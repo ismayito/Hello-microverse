@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
@@ -62,3 +63,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
+=======
+# Hello-microverse
+>>>>>>> main
